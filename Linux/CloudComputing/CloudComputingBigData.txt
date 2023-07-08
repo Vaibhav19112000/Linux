@@ -1,0 +1,131 @@
+Today, two mainstream technologies are the center of concern in IT – Big Data and Cloud Computing. 
+Fundamentally different, Big data is all about dealing with the massive scale of data whereas Cloud computing is about infrastructure. 
+However, the simplification offered by Big data and Cloud technology is the main reason for their huge enterprise adoption. 
+For example Amazon “Elastic Map Reduce” demonstrates how the power of Cloud Elastic Computes is leveraged for Big Data processing.
+
+The combination of both yields beneficial outcome for the organizations. 
+Not to mention, both the technologies are in the stage of evolution but their combination 
+leverages scalable and cost-effective solution in big data analytics.
+
+So, can we say Big data and Cloud computing a perfect combination? 
+Well, there are data points in support of it. Besides 
+that, there are also some real-time challenges to deal with. 
+In this blog, we will discuss both the aspects. 
+We assume you have some idea and knowledge on Big data and Cloud computing.
+
+
+Big Data and Cloud Computing Relationship
+Big data and Cloud computing both the technologies are valuable on its own. 
+Furthermore, many businesses are targeting to combine the two techniques to reap more business benefits. 
+Both the technologies aim to enhance the revenue of the company while reducing the investment cost. 
+While Cloud manages the local software, Big data helps in business decisions.
+
+Big Data and Cloud Computing
+Big data deals with massive structured, semi-structured or unstructured data to store and process it for data analysis purpose.
+There are five aspects of Big Data which are described through 5Vs
+
+Volume – the amount of data
+Variety – different types of data
+Velocity – data flow rate in the system
+Value – the value of data based on the information contained within
+Veracity – data confidentiality and availability
+
+
+Cloud computing offers services to the users on a pay-as-you-go model. 
+Cloud providers offer three primary services, these services are outlined below:
+
+Infrastructure as a Service (IAAS)
+Here the service provider offers entire infrastructure along with the maintenance related tasks.
+
+Platform as a Service (PAAS)
+in this service, the Cloud provider offers resources like object storage, runtime, queuing, databases, etc. 
+However, the responsibility of configuration and implementation related tasks depend on the consumer.
+
+Software as a Service (SAAS)
+This service is the most facilitated one which provides all the necessary settings 
+and infrastructure provides IaaS for the platform and infrastructure are in place.
+
+
+Cloud Computing Role for Big Data
+Big data and Cloud computing relationship can be categorized based on service types:
+
+IAAS in Public Cloud
+IaaS is a cost-effective solution and utilizing this Cloud service, Big Data services enable people to access unlimited storage and compute power. 
+It is a very cost-effective solution for enterprises where the Cloud provider bears all the expenses of managing underlying hardware.
+
+PAAS in Private Cloud
+PaaS vendors incorporate Big Data technologies into their offered service. 
+Hence, they eliminate the need for dealing with the complexities of managing 
+single software and hardware elements which is a real concern while dealing with terabytes of data.
+
+SAAS in Hybrid Cloud
+Analyzing social media data is nowadays an essential parameter for companies for business analysis. 
+In this context, SaaS vendors provide an excellent platform for conducting the analysis.
+
+
+How is Big Data Related to Cloud Computing?
+
+Hence, from the above description, we can see that Cloud enables “As-a-Service” pattern 
+by abstracting the challenges and complexity through a scalable and elastic self-service application. 
+Big data requirement is same where distributed processing of massive data is abstracted from the end users.
+
+There are multiple benefits of Big data analysis in Cloud.
+
+Improved analysis
+With the advancement of Cloud technology, big data analysis has become more improved causing better results. 
+Hence, companies prefer to perform big data analysis in the Cloud. 
+Moreover, Cloud helps to integrate data from numerous sources.
+
+Simplified Infrastructure
+Big Data analysis is a tremendous strenuous job on infrastructure 
+as the data comes in large volumes with varying speeds, 
+and types which traditional infrastructures usually cannot keep up with. 
+As the Cloud computing provides flexible infrastructure, 
+which we can scale according to the needs at the time, it is easy to manage workloads.
+
+Lowering the cost
+Both Big data and Cloud technology delivers value to organizations by reducing the ownership. 
+The Pay-per-user model of Cloud turns CAPEX into OPEX. 
+On the other hand, Apache cut down the licensing cost of Big data which is supposed to be cost millions to build and buy. 
+Cloud enables customers for big data processing without large-scale big data resources. 
+Hence, both Big Data and Cloud technology are driving the cost down for enterprise purposes and bringing value to the enterprise.
+
+Security and Privacy
+Data security and privacy are two major concerns when dealing with enterprise data. 
+Moreover, when your application is hosted on a Cloud platform 
+due to its open environment and limited user control security becomes a primary concern. 
+On the other hand, being an open source application, Big data solution like Hadoop uses a lot of third-party services and infrastructure. 
+Hence, nowadays system integrators bring in Private Cloud Solution that is Elastic and Scalable. 
+Furthermore, it also leverages Scalable Distributed Processing.
+
+Besides that Cloud data is stored and processed in a central location commonly known as Cloud storage server. 
+Along with it the service provider and the customer signs a service level agreement (SLA) to gain the trust between them. 
+If require the provider also leverages required advanced level of security control. 
+This enables the security of big data in Cloud computing covering the following issues:
+
+1.Protecting big data from advanced threats.
+2.How Cloud service providers maintain storage and data.
+
+
+There are rules associated with service level agreements for protecting
+
+1.data
+2.capacity
+3.scalability
+4.security
+5.privacy
+6.availability of data storage and data growth
+
+On the other hand in many organizations, big data analytics is utilized to detect and prevent advanced threats and malicious hackers.
+
+Virtualization
+
+Infrastructure plays a crucial role to support any application. 
+Virtualization technology is the ideal platform for big data. 
+Virtualized big data applications like Hadoop provide multiple benefits which are not accessible on physical infrastructure, 
+but it simplifies big data Management. 
+Big data and Cloud computing point to the convergence of various technologies and trends 
+that makes IT infrastructure and related applications more dynamic, 
+more expendable and more modular and. Hence, Big data and Cloud computing projects rely heavily on virtualization
+
+
